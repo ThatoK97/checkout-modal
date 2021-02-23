@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ThatoK97/checkout-modal/static/css/main.311a1012.chunk.css",
+    "main.js": "/ThatoK97/checkout-modal/static/js/main.b153ff6e.chunk.js",
+    "main.js.map": "/ThatoK97/checkout-modal/static/js/main.b153ff6e.chunk.js.map",
+    "runtime-main.js": "/ThatoK97/checkout-modal/static/js/runtime-main.60167ae1.js",
+    "runtime-main.js.map": "/ThatoK97/checkout-modal/static/js/runtime-main.60167ae1.js.map",
+    "static/js/2.2d289877.chunk.js": "/ThatoK97/checkout-modal/static/js/2.2d289877.chunk.js",
+    "static/js/2.2d289877.chunk.js.map": "/ThatoK97/checkout-modal/static/js/2.2d289877.chunk.js.map",
+    "index.html": "/ThatoK97/checkout-modal/index.html",
+    "precache-manifest.c40e290211f054675748beb8d5ed772c.js": "/ThatoK97/checkout-modal/precache-manifest.c40e290211f054675748beb8d5ed772c.js",
+    "service-worker.js": "/ThatoK97/checkout-modal/service-worker.js",
+    "static/css/main.311a1012.chunk.css.map": "/ThatoK97/checkout-modal/static/css/main.311a1012.chunk.css.map",
+    "static/js/2.2d289877.chunk.js.LICENSE.txt": "/ThatoK97/checkout-modal/static/js/2.2d289877.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60167ae1.js",
+    "static/js/2.2d289877.chunk.js",
+    "static/css/main.311a1012.chunk.css",
+    "static/js/main.b153ff6e.chunk.js"
+  ]
+}
